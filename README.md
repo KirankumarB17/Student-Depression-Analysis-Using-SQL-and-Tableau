@@ -56,3 +56,5 @@ Lowest satisfaction (SS-1) has the least count (SC=86), indicating dissatisfacti
 - Study hours vary widely  ,
 Highest concentration at 10 hours (SC=53), but overall, moderate study hours are most frequent.
 
+##  Final Conclusion:
+The analysis reveals that balanced academic pressure, adequate financial stability, satisfactory study experience, and sufficient sleep (7–8+ hours) play crucial roles in maintaining student mental health. Interventions aimed at reducing academic and financial stress while promoting healthy sleep and study satisfaction can significantly improve students’ psychological well-being.
