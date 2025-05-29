@@ -41,7 +41,7 @@ Integrated all charts into a single dashboard for comprehensive analysis.
 
 ## Project insight
 #### Financial Stress:
-- Highest student count (SC=110) at FS-1 (lowest financial stress level).,
+-- Highest student count (SC=110) at FS-1 (lowest financial stress level).,
 Student count gradually decreases as financial stress increases.
 #### Academic Pressure:
 - Highest count (SC=125) at AP-3, suggesting moderate pressure might be more common or tolerable.,
