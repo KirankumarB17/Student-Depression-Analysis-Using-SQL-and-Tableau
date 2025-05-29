@@ -36,4 +36,6 @@ Study Hours vs Student Count (Area chart)..
 Integrated all charts into a single dashboard for comprehensive analysis.
 
 ## Dashboard
-https://github.com/KirankumarB17/Student-Depression-Analysis-Using-SQL-and-Tableau/blob/main/Final%20Dashboard.PNG
+
+![Final Dashboard](https://github.com/user-attachments/assets/b8467713-43e1-4cc1-a29c-f4542aa62177)
+
