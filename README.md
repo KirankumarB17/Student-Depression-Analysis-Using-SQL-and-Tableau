@@ -17,11 +17,11 @@ To analyze the factors contributing to depression among students using survey da
 - Data Cleaning and Preprocessing (in SQL Server):
 Removed null or blank gender entries.
 
-Standardized gender entries from 'male'/'female' to 'M'/'F'.
-,Created an Age_Group column (A1: 18–24, A2: 25–30, A3: 31+).
-, ransformed binary depression values from 1/0 to 'YES'/'NO'.
-, An index column was added to identify the rows uniquely.
-, Verified each categorical column for consistency using GROUP BY queries.
+Standardized gender entries from 'male'/'female' to 'M'/'F'..
+Created an Age_Group column (A1: 18–24, A2: 25–30, A3: 31+)..
+ransformed binary depression values from 1/0 to 'YES'/'NO'..
+An index column was added to identify the rows uniquely..
+Verified each categorical column for consistency using GROUP BY queries..
 
 - Data Analysis (in Tableau):
 Created individual charts for:
