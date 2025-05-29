@@ -26,9 +26,9 @@ Verified each categorical column for consistency using GROUP BY queries..
 - Data Analysis (in Tableau):
 Created individual charts for:
 
-Financial Stress vs Student Count (Bubble chart)
-Academic Pressure vs Student Count (Square chart)
-Study Satisfaction vs Student Count (Bar chart)
-Sleep Duration vs Student Count (Pie chart)
-Study Hours vs Student Count (Area chart)
+Financial Stress vs Student Count (Bubble chart)..
+Academic Pressure vs Student Count (Square chart)..
+Study Satisfaction vs Student Count (Bar chart)..
+Sleep Duration vs Student Count (Pie chart)..
+Study Hours vs Student Count (Area chart)..
 Integrated all charts into a single dashboard for comprehensive analysis.
