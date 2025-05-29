@@ -5,3 +5,10 @@ To analyze the factors contributing to depression among students using survey da
 
 ## Dataset Used
 -<a href="https://github.com/KirankumarB17/Student-Depression-Analysis-Using-SQL-and-Tableau/blob/main/Depression%20Student%20Dataset.csv">Dataset</a>
+
+## Key Questions Addressed:
+- How does academic pressure influence student depression?
+- What is the relationship between financial stress and mental health?
+- Does study satisfaction correlate with student well-being?
+- What sleep duration is most common among students, and how does it affect their mental health?
+- How do study hours impact students’ psychological status?
