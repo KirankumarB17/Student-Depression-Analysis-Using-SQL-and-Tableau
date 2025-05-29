@@ -32,3 +32,9 @@ Study Satisfaction vs Student Count (Bar chart)..
 Sleep Duration vs Student Count (Pie chart)..
 Study Hours vs Student Count (Area chart)..
 Integrated all charts into a single dashboard for comprehensive analysis.
+
+- Dashboard interaction <a href="https://github.com/KirankumarB17/Student-Depression-Analysis-Using-SQL-and-Tableau/blob/main/Final%20Dashboard.PNG">View Dashboard<a/>
+
+
+## Dashboard
+https://github.com/KirankumarB17/Student-Depression-Analysis-Using-SQL-and-Tableau/blob/main/Final%20Dashboard.PNG
